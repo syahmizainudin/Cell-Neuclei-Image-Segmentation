@@ -228,3 +228,4 @@ eval = model.evaluate(test_pf)
 print(f'Prediction loss: {eval[0]:.2f}\nPrediction accuracy: {eval[1]:.2f}\nIoU: {eval[2]:.2f}')
 
 # %% Model saving
+model.save('model.h5')
