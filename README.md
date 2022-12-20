@@ -61,6 +61,7 @@ The model managed to perform segmentation on the test image adequately. Even so,
 <p><br></p>
 <p align="center">
   <img src="resources/test_prediction_2.png" width=600" /><br>
+  <img src="resources/test_prediction_1.png" width=600" /><br>
   Prediction of the test image made by the model.
 </p>  
 
